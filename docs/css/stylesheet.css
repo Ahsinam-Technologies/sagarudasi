@@ -1,0 +1,14 @@
+/* Center image inside grid cell */
+.image-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Image styling */
+.image-cell img {
+  display: block;
+  margin: auto;
+  border-radius: 12px; 
+}
+
