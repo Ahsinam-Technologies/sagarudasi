@@ -57,11 +57,15 @@ nav = [
   { "About Me" = "index.md" },
 
   { "Builder's Journal" = [
-    {"Day 1: January 08, 2026" = "builder_journal/day_01/startup_fundamentals.md"},
+    {"Day 1: January 08, 2026" = ["builder_journal/day_01/index.md"]},
 
-    {"Day 2: January 09, 2026" = "builder_journal/day_02/picking_the_market.md"},
+    {"Day 2: January 09, 2026" = ["builder_journal/day_02/index.md"]},
     
-    {"Day 3: January 10, 2026" = "builder_journal/day_03/market_research.md"},
+    {"Day 3: January 10, 2026" = [
+      "builder_journal/day_03/index.md",
+      {"Edtech: Market Research" = "builder_journal/day_03/edtech.md"},
+      {"HRTech: Market Research" = "builder_journal/day_03/hrtech.md"}
+    ]},
 
     {"Day 4: January 11, 2026" = "builder_journal/day_04/what_to_build.md"},
 
