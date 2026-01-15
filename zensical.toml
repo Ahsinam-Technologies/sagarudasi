@@ -56,6 +56,18 @@ Copyright &copy; 2026, Ahsinam Technologies Private Limited.
 nav = [
   { "About Me" = "index.md" },
 
+  { "Learning Roadmaps" = ["learning_roadmaps/index.md"
+  
+  ]},
+
+  { "Course Catalog" = ["course_catalog/index.md"
+
+  ]},
+
+  { "Essays" = ["essays/index.md"
+
+  ]},
+
   { "Builder's Journal" = [
     {"Day 1: January 08, 2026" = ["builder_journal/day_01/index.md"]},
 

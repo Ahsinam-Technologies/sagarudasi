@@ -472,7 +472,24 @@ I'm not a big fan of this idea for two reasons:
 1. Even if the platform tells me the best preschool based on my needs is 15 km away from my office or home, I am not gonna opt for that preschool. I need something that is convenient to the home or office commute. So, anything beyond a 2-3 km radius is out of my discovery needs. 
 2. I don't see this feature alone to be that valuable to be monetized reliably. **ProEves** is the startup that has tried this model with some success, but they are also involved in oyo-fication of preschools (alternate revenue scheme). 
 
-**Decision:** We are not doing this business. 
+**FINAL VERDICT #3:** 
+
+We are not doing this business. 
+
+## 03. K12
+
+
+### Idea 4: Operational SaaS & Services for Schools & High Schools
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | Faculty Improvement        | NP      | ==LMS, ERP, SIS, Timetabler, Assessment Systems, Teacher tools, Compliance, Fees Management, Non-academic Services==           | NP         |
+| **B2B2C**                      | Learning animations, Digital interactive platforms, AI tutors, Clubs & Labs inside schools, Delivery and content partnerships.        | NP      | NP           | NP         |
+| **B2C**                        | Own school, Tuitions: offline/online, Practice platforms, Olympiad Prep, Hobby classes, Learning Kits and Books        | NP      | NP           | NP         |
+| **Marketplace**                | Tutor marketplaces, Teacher communities, Doubt solving platforms, Content Hubs        | NP      | NP           | Find the best school for my child.         |
+
+**Initial Hypothesis:**
+
 
 
 ---
