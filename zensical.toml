@@ -57,15 +57,20 @@ nav = [
   { "About Me" = "index.md" },
 
   { "Learning Roadmaps" = ["learning_roadmaps/index.md"
-  
+
   ]},
 
   { "Course Catalog" = ["course_catalog/index.md"
 
   ]},
 
-  { "Essays" = ["essays/index.md"
-
+  { "Essays" = ["essays/index.md",
+    {"Education" = [
+      {"Why Education Is The Most Difficult Business?" = "essays/education/why_education_is_the_most_difficult_business.md"}
+    ]},
+    {"Life" = [
+      {"The Great Game Of Life" = "essays/life/the_game_of_life.md"}
+    ]}
   ]},
 
   { "Builder's Journal" = [
