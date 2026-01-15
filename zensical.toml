@@ -63,6 +63,7 @@ nav = [
     
     {"Day 3: January 10, 2026" = [
       "builder_journal/day_03/index.md",
+      {"Indian Macros" = "builder_journal/day_03/indian_macro.md"},
       {"Edtech: Market Research" = "builder_journal/day_03/edtech.md"},
       {"HRTech: Market Research" = "builder_journal/day_03/hrtech.md"}
     ]},

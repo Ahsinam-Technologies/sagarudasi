@@ -75,6 +75,37 @@ If you start with ideas, market research becomes justification. If you start wit
 
 **Market research is not about proving your idea is good. It’s about making sure you’re standing in the right place before you start walking.**
 
+### SEAT Analysis
+
+Ideas flow better when you do structured analysis of the industry.For each area on the industry landscape, you should ask questions in four sets: Structural, Execution, Outcome, and Timing (SEAT). It's more of an MBA-style business exercise, than engineering or product exercise.   
+
+**1. Structural Analysis** 
+
+
+1. **Market Size**: Who pays? Average ARPU Tolerance? TAM/SAM/SOM? Growth Rate?
+2. **Customer Insights & Spend Readiness**: Behavioural Patterns? What they seek? When they buy?
+3. **Regulatory Intensity**: Are approvals required for distribution? Are degrees/certifications restricted?
+4. **Sources of Variance:** Regional, academic, social, economic, if any?
+5. **Competitive Density & Moatability**: Number of funded players? Points of pairty (content, tech, GTM)? Switching costs? What moats are possible?
+
+**2. Execution Analysis**
+
+1. **Distribution Efficiency**: CAC vs ARPU? Sales cycle lengths? Channel power (schools, coaching institutes)? Digital readiness of the target segment?
+2. **Learning Modality Fit**: Does the learner have the ability/discipline for self-paced? Or you need offline infra? How much does the outcome depend on mentorship or feedback loops? 
+3. **Technology Leverage vs. Operational Complexity**: Can AI/automation dramatically reduce cost of delivery? Can personalization improve outcomes non-linearly? Can tech deliver a 10× better experience over incumbents? Tech must somewhere act as a pillar to differentiation. 
+
+
+**3. Actual Outcome Analysis**
+
+1. **Outcome salience**: How painful is the problem? How urgent is the problem? How much visible is the problem?
+2. **Outcome verifiability**: Can you prove your product works? Scores or metrics? Observable productivity metrics?
+
+**4. Timing Analysis**
+
+1. **Timing & Trends**: Why now? What has recently changed? Tailwinds? Is this a pre-inflection, at-inflection, or post-inflection market?
+2. **Capital Intensity Fit**: Does this space require long runway? Physical Infra? Regulated approval costs?
+
+
 ---
 
 !!! example "Exercise 1: Market Research"
