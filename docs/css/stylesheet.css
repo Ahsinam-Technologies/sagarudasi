@@ -10,5 +10,6 @@
   display: block;
   margin: auto;
   border-radius: 12px; 
+  border: 2px black solid;
 }
 

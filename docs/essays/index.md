@@ -1,5 +1,11 @@
 # Essays
 
+## Life
+
+| Title | Date |ome Random Introduction
+| --- | --- | 
+| [The Great Game Of Life](./life/the_game_of_life.md) | October 10, 2025 |
+
 
 <!-- ## Business
 
@@ -16,7 +22,7 @@
 
 ## Education
 
-| | Date |
+| Title | Date |
 | --- | --- | 
 | [Why Education Is The Most Difficult Business?](./education/why_education_is_the_most_difficult_business.md) | November 05, 2025 |
 
@@ -26,12 +32,6 @@
 | | Date |
 | --- | --- | 
 | | | -->
-
-## Life
-
-| | Date |
-| --- | --- | 
-| [The Great Game Of Life](./life/the_game_of_life.md) | October 10, 2025 |
 
 <!-- ## Other
 

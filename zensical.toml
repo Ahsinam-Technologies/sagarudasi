@@ -65,12 +65,14 @@ nav = [
   ]},
 
   { "Essays" = ["essays/index.md",
+    
+    {"Life" = [
+      {"The Great Game Of Life" = "essays/life/the_game_of_life.md"}
+    ]},
+    
     {"Education" = [
       {"Why Education Is The Most Difficult Business?" = "essays/education/why_education_is_the_most_difficult_business.md"}
     ]},
-    {"Life" = [
-      {"The Great Game Of Life" = "essays/life/the_game_of_life.md"}
-    ]}
   ]},
 
   { "Builder's Journal" = [
