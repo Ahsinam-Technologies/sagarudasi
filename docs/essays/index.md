@@ -2,7 +2,7 @@
 
 ## Life
 
-| Title | Date |ome Random Introduction
+| Title | Date |
 | --- | --- | 
 | [The Great Game Of Life](./life/the_game_of_life.md) | October 10, 2025 |
 

@@ -60,7 +60,53 @@ nav = [
 
   ]},
 
-  { "Course Catalog" = ["course_catalog/index.md"
+  { "Course Catalog" = ["course_catalog/index.md",
+    
+    {"Mathematics" = [
+
+      {"MATH 001: Arithmetic" = [
+        "course_catalog/math/math_001/index.md",
+      ]},
+
+      {"MATH 002: Algebra" = [
+        "course_catalog/math/math_002/index.md",
+      ]},
+
+      {"MATH 003: Euclidean Geometry" = [
+        "course_catalog/math/math_003/index.md",
+      ]},
+
+      {"MATH 004: Trigonometry" = [
+        "course_catalog/math/math_004/index.md",
+      ]},
+
+      {"MATH 005: Cartesian Geometry" = [
+        "course_catalog/math/math_005/index.md",
+      ]},
+
+      {"MATH 006: Introduction to Discrete Mathematics" = [
+        "course_catalog/math/math_006/index.md",
+      ]},
+
+      {"MATH 007: Classical Probability & Statistics" = [
+        "course_catalog/math/math_007/index.md",
+      ]},
+
+      {"MATH 101: Linear Algebra" = [
+        "course_catalog/math/math_101/index.md",
+        {"01. This Math Object Stores Almost Everything" = "course_catalog/math/math_101/lec01/index.md"},
+        {"02. Linear Combinations & Linear Transformations" = "course_catalog/math/math_101/lec02/index.md"},
+      ]},
+
+      {"MATH 102: Calculus" = [
+        "course_catalog/math/math_102/index.md",
+      ]},
+
+      {"MATH 103: Multivariate Calculus" = [
+        "course_catalog/math/math_103/index.md",
+      ]},
+    
+    ]},
 
   ]},
 
