@@ -20,27 +20,27 @@
 
 <div class="grid cards" markdown>
 
-- <a href="/roadmaps/software-development/">
+- <a href="/learning_roadmaps/softdev">
   **💻 Software Development**  
   Learn how to turn precise thoughts into systems that actually run.
   </a>
 
-- <a href="/roadmaps/ml-ai/">
+- <a href="/learning_roadmaps/ai/index.md">
   **🤖 Artificial Intelligence and High Performance Computing**  
   Learn how to make computers do useful things at scale without fully understanding how they do them.
   </a>
 
-- <a href="/roadmaps/data-science/">
+- <a href="/learning_roadmaps/data_sci/index.md">
   **📊 Data Science and Machine Learning**  
   Learn how to extract truth from data that doesn’t want to tell it.
   </a>
 
-- <a href="/roadmaps/business/">
+- <a href="/learning_roadmaps/business/index.md">
   **🏗️ Business and Entrepreneurship**  
   Learn how to build products that create value, captured and sustained.
   </a>
 
-- <a href="/roadmaps/finance/">
+- <a href="/learning_roadmaps/finance/index.md">
   **💰 Finance**  
   Learn how money moves, why it pools where it does, and what that reveals about power and risk.
   </a>
