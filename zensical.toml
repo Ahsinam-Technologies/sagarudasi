@@ -58,7 +58,7 @@ nav = [
 
   { "Learning Roadmaps" = ["learning_roadmaps/index.md",
 
-    {"Software Development" = "learning_roadmaps/softdev/index.md"},
+    {"Computer Science & Software Development" = "learning_roadmaps/softdev/index.md"},
     {"Artificial Intelligence & High Performance Computing" = "learning_roadmaps/ai/index.md"},
     {"Data Science & Machine Learning" = "learning_roadmaps/data_sci/index.md"},
     {"Business & Entrepreneurship" = "learning_roadmaps/business/index.md"},
@@ -451,6 +451,9 @@ pygments_lang_class = true
 custom_fences = [
   { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" }
 ]
+
+[project.markdown_extensions.pymdownx.tabbed]
+alternate_style = true
 
 [project.markdown_extensions.pymdownx.keys]
 [project.markdown_extensions.pymdownx.smartsymbols]
