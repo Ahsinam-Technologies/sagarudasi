@@ -61,11 +61,101 @@ Somewhere along the way, the movie **3 Idiots** nudged me toward building things
 
 </div>
 
-After my degree, I mapped each semester in a flowchart to see what I was taught, what I taught myself, what subjects I actually liked, and the ones I hated. I’m not sure why I did it; it just felt worth doing. Here's how **my learning journey during my engineering days** looked like. Subjects stacked on the left didn't directly help me in my career. 
+After my degree, I mapped each semester in a flowchart to see what I was taught, what I taught myself, what subjects I actually liked, and the ones I hated. I’m not sure why I did it; it just felt worth doing. Here's how **my learning journey during my engineering days** looked like. 
 
-<div markdown class="image-cell">
+<!-- <div markdown class="image-cell">
 ![Engineering Study](./img/engineering_tour.png){width="91%"}
-</div>
+</div> -->
+
+=== "TERM 1"
+
+    | Courses in Curriculum | Self-study | 
+    | --- | --- | 
+    | Calculus 1 | Programming in C |
+    | Basic Circuit Theory | | 
+    | Engineering Drawing | |
+    | Applied Physics 1 | |
+    | Applied Chemistry 1 | |
+    | Basic Mechanical Engineering | |
+
+=== "TERM 2" 
+
+    | Courses in Curriculum | Self-study | 
+    | --- | --- | 
+    | Calculus 2 | |
+    | Mechanics | |
+    | Programming in C++ | |
+    | Applied Physics 2 | |
+    | Applied Chemistry 2 | |
+    | Basic Civil Engineering | |
+
+=== "TERM 3" 
+
+    | Courses in Curriculum | Self-study | 
+    | --- | --- | 
+    | Linear Algebra | Data Structures |
+    | Digital Logic & Design | |
+    | Network Analysis & Synthesis | |
+    | Electronic Circuits & Design - 1 | |
+    | Programming in Java | |
+    | Business Communications | |
+
+=== "TERM 4" 
+
+    | Courses in Curriculum | Self-study | 
+    | --- | --- | 
+    | Mathematical Transforms | Algorithms |
+    | Numerical Methods | Competitive Programming |
+    | Analog Communication | |
+    | Electronic Circuits & Design - 2 | |
+    | Signals and Systems | |
+    | Integrated Circuits & Applications | | 
+
+=== "TERM 5"
+
+    | Courses in Curriculum | Self-study | 
+    | --- | --- | 
+    | Probability & Statistics | Programming in Python |
+    | Computer Networks | Programming in JavaScript |
+    | Microprocessors & Microcontrollers | Digital Computer Organization |
+    | Digital Communication | |
+    | Electromagnetic Waves | |
+    | Control Systems | |
+
+=== "TERM 6"
+
+    | Courses in Curriculum | Self-study | 
+    | --- | --- | 
+    | Application of Statistics in Communication | Pattern Recognition |
+    | Digital Signal Processing | Web Development |
+    | Information Theory & Data Compression | Operating Systems | 
+    | Microwaves | |
+    | Satellite Communication | |
+    | Principles of VLSI | |
+
+=== "TERM 7"
+
+    | Courses in Curriculum | Self-study | 
+    | --- | --- | 
+    | Database Management Systems | Machine Learning |
+    | Digital Image Processing | Theory of Computation |
+    | Antenna Theory | Compiler Design | 
+    | Blockchain Technology | | 
+    | Fibre Optics | |
+    | PROJECT 1 | |
+
+=== "TERM 8" 
+
+    | Courses in Curriculum | Self-study | 
+    | --- | --- | 
+    | Coding Theory | Deep Learning |
+    | Cryptography | Artificial Intelligence | 
+    | Digital Signal Processing | |
+    | Embedded Systems | |
+    | Mobile Communication | |
+    | PROJECT 2 | |
+
+
 
 ## It was time to gain some experience...
 
