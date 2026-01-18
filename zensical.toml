@@ -60,7 +60,6 @@ nav = [
 
     {"Computer Science & Software Development" = "learning_roadmaps/softdev/index.md"},
     {"Artificial Intelligence & High Performance Computing" = "learning_roadmaps/ai/index.md"},
-    {"Data Science & Machine Learning" = "learning_roadmaps/data_sci/index.md"},
     {"Business & Entrepreneurship" = "learning_roadmaps/business/index.md"},
     {"Finance" = "learning_roadmaps/finance/index.md"},
 

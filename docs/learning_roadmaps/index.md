@@ -30,11 +30,6 @@
   Learn how to make computers do useful things at scale without fully understanding how they do them.
   </a>
 
-- <a href="/learning_roadmaps/data_sci">
-  **📊 Data Science and Machine Learning**  
-  Learn how to extract truth from data that doesn’t want to tell it.
-  </a>
-
 - <a href="/learning_roadmaps/business">
   **🏗️ Business and Entrepreneurship**  
   Learn how to build products that create value, captured and sustained.

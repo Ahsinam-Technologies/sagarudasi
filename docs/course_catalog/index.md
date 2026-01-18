@@ -57,6 +57,9 @@
     | CS 304 | Introduction to Data Engineering | |
     | CS 305 | Cryptography & Coding Theory | |
     | CS 306 | Cloud Architecture & Scalability | |
+    | CS 307 | Introduction to Parallel Computing | |
+    | CS 308 | GPU Programming & CUDA | |
+    | CS 309 | High Performance Computing Systems | |
     | CS 401 | Data Sourcing & Mining | |
     | CS 402 | Machine Learning & Pattern Recognition | |
     | CS 403 | Deep Learning | |
