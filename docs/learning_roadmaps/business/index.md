@@ -18,7 +18,7 @@
     | BUS 101 | Introduction to Business Thinking | Transition from "I have an idea" to "I can create value and capture some of it." Learn to think in terms of customer problems, value propositions, and sustainable models. |
     | LAW 101 | Business Law & Ethics | Contracts, liability, intellectual property basics, ethical frameworks. Legal ignorance kills businesses. Learn enough to know when you need a lawyer. |
     | ECON 101 | Fundamental Principles of Economics | Learn how markets work, supply and demand, price signals, and resource allocation. This is the operating system of business. |
-    | FIN 103 | Financial Accounting Fundamentals | Learn to read the language of business: balance sheets, income statements, cash flow. If you can't read financials, you're building blind. |
+    | FIN 103 | Financial Accounting | Learn to read the language of business: balance sheets, income statements, cash flow. If you can't read financials, you're building blind. |
     | HUM 104 | Human Psychology & Decision Making | People don't act rationally. Learn the psychology behind how customers choose, employees perform, and markets react. Behavioral insights are competitive advantages. |
     | HUM 105 | Business Communication | Writing emails, memos, proposals, presentations. Clarity is power. The best strategy dies if you can't articulate it clearly to customers, investors, and employees. |
 

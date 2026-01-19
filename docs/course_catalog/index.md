@@ -86,6 +86,12 @@
     | CS 518 | Advanced Computer Architecture |  | Even |
     | CS 519 | Social Network Analysis | | Odd |
     | CS 520 | Swarm Intelligence | | Even |
+    | CS 521 | 	Smart Contract Development & Security | | Odd | 
+    | CS 522 | Layer 2 Scaling & Cross-Chain Infrastructure | | Even |
+    | CS 523 | Tokenomics & Mechanism Design | | Even |  
+    | CS 524 | Payment Systems & Processing  | | Odd |
+    | CS 525 | RegTech & Compliance Automation | | Even |
+    | CS 526 |  Open Banking & API Design | | Even |
 
 === "Product Design"
 
@@ -199,7 +205,7 @@
 
     | Course Code | Course Name | Pre-requisite | Term | 
     | --- | --- | :---: | :---: |
-    | FIN 101 | Introduction to Finance | | - |
+    | FIN 101 | Introduction to Finance | | Odd |
     | FIN 102 | Finance for Technical Founders | | Even |  
     | FIN 103 | Financial Accounting | | Odd |
     | FIN 104 | Managerial Accounting | | Even |
