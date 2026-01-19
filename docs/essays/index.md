@@ -1,6 +1,6 @@
 # Essays
 
-## Life
+### Life
 
 | Title | Date |
 | --- | --- | 
@@ -20,7 +20,7 @@
 | --- | --- | 
 | | | -->
 
-## Education
+### Education
 
 | Title | Date |
 | --- | --- | 
