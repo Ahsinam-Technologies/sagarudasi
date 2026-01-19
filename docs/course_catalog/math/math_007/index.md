@@ -1,1 +1,0 @@
-# MATH 007: Classical Probability and Statistics

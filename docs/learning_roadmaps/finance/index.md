@@ -13,7 +13,7 @@
 
     | Course Code | Course | Objective |
     | --- | --- | --- |
-    | MATH 101 | Linear Algebra | Portfolio theory, factor models, and risk decomposition all live in linear algebra. Also essential for ML in finance. Learn to think in vectors and matrices. |
+    | [MATH 101](../../course_catalog/math/math_101/index.md) | [Linear Algebra](../../course_catalog/math/math_101/index.md) | Portfolio theory, factor models, and risk decomposition all live in linear algebra. Also essential for ML in finance. Learn to think in vectors and matrices. |
     | MATH 102 | Calculus | Returns change continuously. Derivatives price based on rates of change. This course builds intuition for how financial variables move and interact over time. |
     | CS 101 | Introduction to Computational Thinking | Transition from "this is a market problem" to "this is a problem a computer can solve." Learn to automate financial analysis and decision-making. |
     | FIN 101 | Introduction to Finance | Learn the time value of money, present value thinking, and how financial markets actually work. This is the foundation everything else builds on. |

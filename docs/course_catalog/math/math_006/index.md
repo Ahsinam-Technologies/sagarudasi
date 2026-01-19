@@ -1,1 +1,0 @@
-# MATH 006: Introduction to Discrete Mathematics

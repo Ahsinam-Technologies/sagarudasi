@@ -67,6 +67,15 @@ nav = [
 
   { "Course Catalog" = ["course_catalog/index.md",
 
+    {"Mathematics" = [
+      
+      {"MATH 101: Linear Algebra" = [
+        "course_catalog/math/math_101/index.md",
+        {"01. Introduction to Vectors" = "course_catalog/math/math_101/lec01.md"},
+      ]}
+
+    ]}
+
   ]},
 
   { "Essays" = ["essays/index.md",

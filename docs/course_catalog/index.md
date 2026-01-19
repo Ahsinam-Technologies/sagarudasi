@@ -11,9 +11,9 @@
     | MATH 005 | Cartesian Geometry | MATH 004 | Self-Paced | 
     | MATH 006 | Introduction to Discrete Mathematics | MATH 002 |  Self-Paced | 
     | MATH 007 | Classical Probability & Statistics | MATH 002 |  Self-Paced | 
-    | MATH 101 | Linear Algebra | MATH 005 | Odd | 
+    | [MATH 101](./math/math_101/index.md) | [Linear Algebra](./math/math_101/index.md) | MATH 005 | Odd | 
     | MATH 102 | Calculus  | MATH 005 and MATH 006 | Odd | 
-    | MATH 103 | Multivariate Calculus | MATH 101 and MATH 102 | Even | 
+    | MATH 103 | Multivariate Calculus | [MATH 101](./math/math_101/index.md) and MATH 102 | Even | 
     | MATH 104 | Discrete Mathematics | MATH 006 | Even |
     | MATH 201 | Mathematical Analysis | MATH 103 | Self-Paced | 
     | MATH 202 | Mathematical Transforms | MATH 103 | Odd | 

@@ -15,7 +15,7 @@
 
     | Course Code | Course | Objective |
     | --- | --- | --- |
-    | MATH 101 | Linear Algebra | Learn the language of high-dimensional thinking. It's the backbone of modern ML, computer graphics, optimized systems and many other computational ideas. It's the language of how every kind of data is interpreted by the computers. |
+    | [MATH 101](../../course_catalog/math/math_101/index.md) | [Linear Algebra](../../course_catalog/math/math_101/index.md)  | Learn the language of high-dimensional thinking. It's the backbone of modern ML, computer graphics, optimized systems and many other computational ideas. It's the language of how every kind of data is interpreted by the computers. |
     | MATH 102 | Calculus | Data changes with time. Systems evolve with time. This course is important to create a mental model of rates of change. |
     | CS 101 | Introduction to Computational Thinking | This course will transition you from "this is a problem" to "this is a problem a computer can solve". Learn to think in abstractions and steps that computers can execute. |o hunt jobs with this much skillset alone. Any further study is only required when looking for specialized or FAANG roles. 
     | CS 102 | Programming Paradigms | See that programming is about ideas, not syntax. Different paradigms teach different ways to think and yet reach at the same outcome. |

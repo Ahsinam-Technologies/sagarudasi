@@ -1,1 +1,0 @@
-# MATH 001: Arithmetic

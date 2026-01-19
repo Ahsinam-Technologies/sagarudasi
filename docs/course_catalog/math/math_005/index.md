@@ -1,1 +1,0 @@
-# MATH 005: Cartesian Geometry
