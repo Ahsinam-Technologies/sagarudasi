@@ -98,8 +98,8 @@
 
     | Course Code | Course | Objective | 
     | --- | --- | --- |
-    | MATH 402 | Modelling & Simulation | How to build computational models of complex systems. Essential for understanding behavior in systems too complicated to analyze directly. |
-    | MATH 403 | Game Theory & Strategy | The course covers multi-agent reasoning, mechanism design, auctions. Useful for marketplace design, competitive dynamics, and understanding strategic behavior in systems. | 
+    | MATH 401 | Modelling & Simulation | How to build computational models of complex systems. Essential for understanding behavior in systems too complicated to analyze directly. |
+    | MATH 402 | Game Theory & Strategy | The course covers multi-agent reasoning, mechanism design, auctions. Useful for marketplace design, competitive dynamics, and understanding strategic behavior in systems. | 
     | CS 405 | Modern Theory of Artificial Intelligence | This course primarily focuses on Generative AI, and how it is used to build AI workflows and Agentic AI solutions. |
     | CS 406 | Natural Language Processing | Text is humanity's primary information format. Understanding how machines can read, write, and reason with language opens up enormous product possibilities. |
     | CS 407 | Computer Vision | Images and video are the other half of how humans communicate. Object detection, segmentation, generation—core capabilities for modern applications. |
