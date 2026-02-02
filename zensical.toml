@@ -71,8 +71,20 @@ nav = [
       
       {"MATH 101: Linear Algebra" = [
         "course_catalog/math/math_101/index.md",
-        {"01. Introduction to Vectors" = "course_catalog/math/math_101/lec01.md"},
+        {"01. Why Everything Is A List Of Numbers!?" = "course_catalog/math/math_101/lec01.md"},
+        {"02. Yet Another Way To Look At The System Of Equations" = "course_catalog/math/math_101/lec02.md"},
+        {"03. Matrices Don't Just Store Data. They Transform Space!" = "course_catalog/math/math_101/lec03.md"},
+        {"04. The Geometry Hidden In This Single Number" = "course_catalog/math/math_101/lec04.md"},
+        {"05. How To Measure Meaning" = "course_catalog/math/math_101/lec05.md"},
+        {"ASSIGNMENT 01" = "course_catalog/math/math_101/assign01.md"},
+        {"06. The Hidden Coordinate System Inside Every Matrix" = "course_catalog/math/math_101/lec06.md"},
+        {"07. When Matrices Aren't Square" = "course_catalog/math/math_101/lec07.md"},
+        {"08. The Polynomial That Every Matrix Obeys" = "course_catalog/math/math_101/lec08.md"},
+        {"09. When Vectors Stop Looking Like Arrows" = "course_catalog/math/math_101/lec09.md"},
+        {"10. When Linear Algebra Stops Being Enough!" = "course_catalog/math/math_101/lec10.md"},
+        {"ASSIGNMENT 02" = "course_catalog/math/math_101/assign02.md"},
       ]}
+
 
     ]}
 
