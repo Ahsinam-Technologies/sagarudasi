@@ -1,8 +1,5 @@
-# 03. Matrices Don't Just Store Data. They Transform Space!
+# 03. Matrices Don't Just Store Vectors. They Transform Space!
 
+I owe you an apology in advance. If you thought your mental model of systems of linear equations was finally settled, this chapter will once again tamper with your understanding of systems of linear equations, but for a good cause of course. So, shall we begin!?
 
-## 3.1 - Concept Of Linear Transformation
-
-- With example explain how each point of standard space is not transformed to a different space
-
-## 3.2 
+this chapter will once again tamper with your understanding of systems of linear equations, but for a good cause.

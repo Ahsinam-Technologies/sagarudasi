@@ -29,7 +29,7 @@ This course trains students to **think in high dimensions**, reason geometricall
     | --- | --- | --- | 
     | 01. | [Why Everything Is A List Of Numbers!?](./lec01.md) | |
     | 02. | [Yet Another Way To Look At The System Of Equations](./lec02.md) | |
-    | 03. | [Matrices Don't Just Store Data. They Transform Space!](./lec03.md) | |
+    | 03. | [Matrices Don't Just Store Vectors. They Transform Space!](./lec03.md) | |
     | 04. | [The Geometry Hidden In This Single Number](./lec04.md) | |
     | 05. | [How To Measure "Meaning"](./lec05.md) | |
     | 06. | [The Hidden Coordinate System Inside Every Matrix](./lec06.md) | |

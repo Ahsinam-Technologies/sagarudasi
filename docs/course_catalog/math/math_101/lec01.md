@@ -32,8 +32,8 @@ For each portfolio, you can compute its total value for each of the last 20 days
 Every portfolio, no matter how complex, has now been reduced to an ordered pair: $\text{(reward, risk)}$. This is a remarkable simplification. Hundreds or thousands of raw numbers are distilled into just two. If you plot these pairs on a two-dimensional plane, each portfolio becomes a point. 
 
 <figure markdown="span">
-    ![Efficient frontier](./img/efficient_frontier.png#only-light){width=60%, loading=lazy}
-    ![Efficient frontier](./img/efficient_frontier_dark.png#only-dark){width=60%, loading=lazy}
+    ![Efficient frontier](./img/efficient_frontier.png#only-light){width=60%, }
+    ![Efficient frontier](./img/efficient_frontier_dark.png#only-dark){width=60%, }
 </figure>
 
 !!! note "Markowitz's Efficient Portfolio Theory"
@@ -52,7 +52,7 @@ When you buy a phone, one of the camera specifications you often see is **megapi
 Each pixel is not a single number. It is usually described by **three numbers**: R for red, G for green, and B for blue. Each of these numbers tells you how much of that color is present in the pixel. By mixing red, green, and blue in different amounts, we can produce almost any visible color. So one pixel is really an ordered triple: **(R, G, B).**
 
 <figure markdown="span">
-    ![Color Image Pixels](./img/colorpixels.png){width=60%, loading=lazy}
+    ![Color Image Pixels](./img/colorpixels.png){width=60%, }
 </figure>
 
 Now imagine a very small image made of 9 pixels, arranged in **$3 \times 3$ grid**. Each pixel has three values. So this image is a **$3 \times 3 \times 3 = 27$ collection of numbers**.
@@ -87,7 +87,7 @@ We will not go into the details of how this compression works. What matters here
 Audio feels very different from images. We hear sound as something continuous. But just like images, audio must also be turned into numbers before a computer can store or process it. **Sound is a vibration.** When someone speaks or a guitar string vibrates, it creates changes in air pressure over time, denoted as $x(t)$ in the following diagram. An audio recording is simply a record of how this pressure changes.
 
 <figure markdown="span">
-    ![Sound Sample](./img/sound_sample.jpg){loading=lazy}
+    ![Sound Sample](./img/sound_sample.jpg){}
 </figure>
 
 A computer cannot store a continuous curve. Instead, it **samples** the wave at regular time intervals. Each measurement is called a **sample**. The **sampling rate** tells us how many samples are taken per second. **44,100 samples per second is a common rate used in music** (double the human ear's listening frequency range). This means the waveform is measured 44,100 times every second. 
@@ -184,8 +184,8 @@ $$
 Here, $\hat{i}$ is the unit vector pointing one step along the x-axis, and $\hat{j}$ is the unit vector pointing one step along the y-axis. Multiplying by $a$ or $b$ simply means taking that many steps in the corresponding direction.
 
 <figure markdown="span">
-    ![Example Vector](./img/vector.png#only-light){width=50%, loading=lazy}
-    ![Example Vector](./img/vector_dark.png#only-dark){width=50%, loading=lazy}
+    ![Example Vector](./img/vector.png#only-light){width=50%, }
+    ![Example Vector](./img/vector_dark.png#only-dark){width=50%, }
 </figure>
 
 The same idea extends naturally to three dimensions. A vector with three components,
@@ -246,8 +246,8 @@ Geometrically, this operation can be understood in any of the two equivalent way
 Draw the vector $\mathbf{u}$ as an arrow starting at the origin. Now place the tail of $\mathbf{v}$ at the tip of $\mathbf{u}$. The arrow from the origin to the tip of $\mathbf{v}$ represents $\mathbf{u} + \mathbf{v}$. This is called the **triangle law of vector addition**. You walk along the first vector, then along the second. The direct path from start to finish is their sum.
 
 <figure markdown="span">
-    ![Triangle](./img/triangle.png#only-light){width=50%, loading=lazy}
-    ![Triangle](./img/triangle_dark.png#only-dark){width=50%, loading=lazy}
+    ![Triangle](./img/triangle.png#only-light){width=50%, }
+    ![Triangle](./img/triangle_dark.png#only-dark){width=50%, }
 </figure>
 
 **Parallelogram law**
@@ -255,8 +255,8 @@ Draw the vector $\mathbf{u}$ as an arrow starting at the origin. Now place the t
 Place both vectors $\mathbf{u}$ and $\mathbf{v}$ so that they start at the origin. Complete the parallelogram formed by these two arrows. The diagonal of the parallelogram, starting from the origin, is again the vector $\mathbf{u} + \mathbf{v}$. This is the **parallelogram law of vector addition**.
 
 <figure markdown="span">
-    ![Parallelogram](./img/parallelogram.png#only-light){width=50%, loading=lazy}
-    ![Parallelogram](./img/parallelogram_dark.png#only-dark){width=50%, loading=lazy}
+    ![Parallelogram](./img/parallelogram.png#only-light){width=50%, }
+    ![Parallelogram](./img/parallelogram_dark.png#only-dark){width=50%, }
 </figure>
 
 

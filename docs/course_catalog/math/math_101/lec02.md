@@ -64,13 +64,13 @@ With some hit-and-trial, you can come up with the solution $x=2$ and $y=3$. Geom
 <div class="grid" markdown>
 
 <figure markdown="span">
-    ![Row Picture](./img/row_pic.png#only-light){width=95%, loading=lazy}
-    ![Row Picture](./img/row_pic_dark.png#only-dark){width=95%, loading=lazy}
+    ![Row Picture](./img/row_pic.png#only-light){width=95%, }
+    ![Row Picture](./img/row_pic_dark.png#only-dark){width=95%, }
 </figure>
 
 <figure markdown="span">
-    ![Col Picture](./img/col_pic.png#only-light){width=95%, loading=lazy}
-    ![Col Picture](./img/col_pic_dark.png#only-dark){width=95%, loading=lazy}
+    ![Col Picture](./img/col_pic.png#only-light){width=95%, }
+    ![Col Picture](./img/col_pic_dark.png#only-dark){width=95%, }
 </figure>
 
 </div>
@@ -518,7 +518,7 @@ Finally, $x + y + z = 6 \implies x + (3-t) + t = 6 \implies x = 3$.
 The solution is $\mathbf{x} = \begin{bmatrix} 3 \\ 3-t \\ t \end{bmatrix} = \begin{bmatrix} 3 \\ 3 \\ 0 \end{bmatrix} + t\begin{bmatrix} 0 \\ -1 \\ 1 \end{bmatrix} \forall \text{ } t \in \mathbb{R}$. The solution set is a **line but not through the origin**. 
 
 
-## Rouché-Capelli Theorem
+### 2.4.1 - Rouché-Capelli Theorem
 
 !!! quote "Rouché–Capelli Theorem (Solvability of Linear Systems)"
 
