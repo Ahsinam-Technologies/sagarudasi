@@ -5,14 +5,20 @@ window.MathJax = {
     processEscapes: true,
     processEnvironments: true
   },
+
   options: {
     ignoreHtmlClass: ".*|",
     processHtmlClass: "arithmatex"
+  },
+
+  chtml: {
+    // Disable dynamic CSS insertion to avoid the Mathjax-CSS error
+    adaptiveCSS: false
   }
 };
 
-document$.subscribe(() => {
-  if (typeof MathJax !== 'undefined' && MathJax.typesetPromise) {
-    MathJax.typesetPromise().catch((err) => console.error('MathJax rendering failed:', err));
+document$.subscribe(function() {
+  if (MathJax.typesetPromise) {
+    MathJax.typesetPromise();
   }
-})
+});

@@ -64,13 +64,13 @@ With some hit-and-trial, you can come up with the solution $x=2$ and $y=3$. Geom
 <div class="grid" markdown>
 
 <figure markdown="span">
-    ![Row Picture](./img/row_pic.png#only-light){width=95%, }
-    ![Row Picture](./img/row_pic_dark.png#only-dark){width=95%, }
+    ![Row Picture](./img/row_pic.png#only-light){width=95%, loading=lazy}
+    ![Row Picture](./img/row_pic_dark.png#only-dark){width=95%, loading=lazy}
 </figure>
 
 <figure markdown="span">
-    ![Col Picture](./img/col_pic.png#only-light){width=95%, }
-    ![Col Picture](./img/col_pic_dark.png#only-dark){width=95%, }
+    ![Col Picture](./img/col_pic.png#only-light){width=95%, loading=lazy}
+    ![Col Picture](./img/col_pic_dark.png#only-dark){width=95%, loading=lazy}
 </figure>
 
 </div>
