@@ -75,7 +75,7 @@ nav = [
         {"02. Yet Another Way To Look At The System Of Equations" = "course_catalog/math/math_101/lec02.md"},
         {"03. Matrices Don't Just Store Data. They Transform Space!" = "course_catalog/math/math_101/lec03.md"},
         {"04. The Geometry Hidden In This Single Number" = "course_catalog/math/math_101/lec04.md"},
-        {"05. How To Measure Meaning" = "course_catalog/math/math_101/lec05.md"},
+        {"05. How To Measure 'Meaning'" = "course_catalog/math/math_101/lec05.md"},
         {"ASSIGNMENT 01" = "course_catalog/math/math_101/assign01.md"},
         {"06. The Hidden Coordinate System Inside Every Matrix" = "course_catalog/math/math_101/lec06.md"},
         {"07. When Matrices Aren't Square" = "course_catalog/math/math_101/lec07.md"},
@@ -312,7 +312,7 @@ features = [
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
     # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
-    #"navigation.tabs.sticky",
+    "navigation.tabs.sticky",
 
     # A back-to-top button can be shown when the user, after scrolling down,
     # starts to scroll up again.
