@@ -355,7 +355,11 @@ A linear transformation **does not distort geometry**, it **re-expresses it in a
 ### 3.2.5 - Shear Transformation
 
 
-### 3.2.6 - Projection Transformation -->
+### 3.2.6 - Projection Transformation 
+
+
+## 3.3 - Matrix Multiplication As Composition: I have to cover the idea of matrix multiplication as composition!
+-->
 
 
 ---
