@@ -534,4 +534,160 @@ The solution is $\mathbf{x} = \begin{bmatrix} 3 \\ 3-t \\ t \end{bmatrix} = \beg
 
     3. If $\operatorname{rank}(A) \neq \operatorname{rank}([A|\mathbf{b}]),$ then the system is **inconsistent** and has **no solution**.
 
+
+!!! example "Example 2.1"
+
+
+    Consider the system,
+
+    $$
+    \begin{aligned}
+    x + 2y + z &= 5 \\
+    2x + 4y + 3z &= 12 \\
+    3x + 6y + kz &= 17
+    \end{aligned}
+    $$
+
+    where \( k \) is a parameter.
+
+    **Part 1: Solve for general \( k \)**
+ 
+    $$
+    [A|\mathbf{b}] = 
+    \left[\begin{array}{ccc|c}
+    1 & 2 & 1 & 5 \\
+    2 & 4 & 3 & 12 \\
+    3 & 6 & k & 17
+    \end{array}\right]
+    $$
+
+    \( R_2 \rightarrow R_2 - 2R_1 \), \( R_3 \rightarrow R_3 - 3R_1 \):
+    
+    $$
+    [A|\mathbf{b}] = 
+    \left[\begin{array}{ccc|c}
+    1 & 2 & 1 & 5 \\
+    0 & 0 & 1 & 2 \\
+    0 & 0 & k-3 & 2
+    \end{array}\right]
+    $$
+
+    For the third row, we have \( (k-3)z = 2 \) from the elimination.
+
+    **Case 1:** \( k \neq 3 \)
+
+    From \( R_2 \), \( z = 2 \). From \( R_3 \), \( (k-3)z = 2 \Rightarrow (k-3)(2) = 2 \Rightarrow 2k - 6 = 2 \Rightarrow 2k = 8 \Rightarrow k = 4 \). If \( k = 4 \): From \( R_3 \), \( (4-3)z = 2 \Rightarrow z = 2 \) (consistent with \( R_2 \)). 
+    Then from \( R_1 \): \( x + 2y + 2 = 5 \Rightarrow x + 2y = 3 \)
+    This gives infinitely many solutions: \( x = 3 - 2y \), \( z = 2 \), with \( y \) free.
+
+    If \( k \neq 4 \) and \( k \neq 3 \), from \( R_2 \), \( z = 2 \); but from \( R_3 \), \( (k-3)z = 2 \Rightarrow z = \frac{2}{k-3} \). 
+    This gives \( 2 = \frac{2}{k-3} \Rightarrow k-3 = 1 \Rightarrow k = 4 \), which contradicts \( k \neq 4 \).
+    So the system is **inconsistent** when \( k \neq 3 \) and \( k \neq 4 \).
+
+    **Case 2:** \( k = 3 \)
+
+    The matrix becomes
+
+    $$
+    \left[\begin{array}{ccc|c}
+    1 & 2 & 1 & 5 \\
+    0 & 0 & 1 & 2 \\
+    0 & 0 & 0 & 2
+    \end{array}\right]
+    $$
+    
+    From \( R_3 \), \( 0 = 2 \), which is **impossible**. So the system is **inconsistent** when \( k = 3 \).
+
+    So **only when \( k = 4 \)** is the system consistent.
+
+    **Part 2: Nature of solutions**
+
+    - **Unique solution:** Never. The matrix has at most rank 2, so it can't have 3 pivots.
+    - **No solution:** When \( k \neq 4 \)
+    - **Infinitely many solutions:** When \( k = 4 \)
+
+!!! example "Example 2.2"
+
+    Let \( w_1, w_2, w_3 \) be linearly independent. Define
+
+    \[
+    v_1 = 2w_1 - w_2,\quad v_2 = w_1 + 3w_2,\quad v_3 = 4w_1 + 5w_2
+    \]
+    
+    Show that \( v_1, v_2, v_3 \) are linearly dependent.
+
+    **Solution:** Set \( \alpha v_1 + \beta v_2 + \gamma v_3 = 0 \). 
+
+    \[
+    \alpha(2w_1 - w_2) + \beta(w_1 + 3w_2) + \gamma(4w_1 + 5w_2) = 0
+    \]
+    
+    \[
+    (2\alpha + \beta + 4\gamma)w_1 + (-\alpha + 3\beta + 5\gamma)w_2 = 0
+    \]
+    
+    Since \( w_1, w_2 \) are linearly independent,
+
+    \[
+    \begin{cases}
+    2\alpha + \beta + 4\gamma = 0 \\
+    -\alpha + 3\beta + 5\gamma = 0
+    \end{cases}
+    \]
+    
+    We have 3 unknowns, 2 equations $\implies$ infinite solutions. We must find one non-trivial solution in that case.
+
+    Let \( \gamma = 1 \), then
+
+    \[
+    2\alpha + \beta = -4 \qquad -\alpha + 3\beta = -5
+    \]
+    
+    Solving, \(\beta = -2\) and \(\alpha = -1 \).
+
+    So \( (-1)v_1 + (-2)v_2 + (1)v_3 = 0 \) is a non-trivial combination.
+
+
+!!! example "Example 2.3"
+
+    1. **T/F:** If \( \{v_1, v_2, v_3, v_4\} \) are linearly independent in \( \mathbb{R}^n \), then \( n \geq 4 \).
+    ***True.** Maximum number of linearly independent vectors in \( \mathbb{R}^n \) is \( n \).*
+
+    2. **T/F:** If \( A \) and \( B \) are \( n \times n \) matrices with rank \( n \), then \( A+B \) also has rank \( n \).
+    ***False.** Counterexample: \( A = I_n \), \( B = -I_n \), then \( A+B = 0 \) has rank 0.*
+
+    3. **T/F:** The union of two subspaces is always a subspace.
+    ***False.** Counterexample: x-axis ∪ y-axis in \( \mathbb{R}^2 \). $(1,0) + (0,1) = (1,1)$ not in either.*
+
+    4. **T/F:** If \( S \) is a subspace of \( \mathbb{R}^n \) with dimension \( k \), then any set of \( k+1 \) vectors in \( S \) is linearly dependent.
+    ***True.** Dimension is maximum size of linearly independent set.*
+
+    5. **T/F:** If \( Ax = b \) has no solution, then \( Ax = 0 \) has only the trivial solution.
+    ***False.** Counterexample: \( A = \begin{bmatrix}1&0\\0&0\end{bmatrix} \), \( b = \begin{bmatrix}0\\1\end{bmatrix} \). $Ax=b$ has no solution, but $Ax=0$ has non-trivial solutions \( \begin{bmatrix}0\\t\end{bmatrix} \).*
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---

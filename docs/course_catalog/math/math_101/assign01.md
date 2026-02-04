@@ -55,8 +55,6 @@ $$
 
 1. Solve the system for a general value of $k$.
 2. Determine the value(s) of $k$ for which the system has a **unique solution** and **no solution**.
-3. Explain your conclusions using pivot positions. 
-
 
 ### **A3. Singularity, Infinite Solutions, and Particular Solutions**
 
@@ -76,7 +74,7 @@ For the infinite-solution case, find the solution satisfying $z = 1$.
 
 ## Section B: Consistency, Column Space, and Solvability (10 Marks)
 
-**Attempt *1 problem*.**
+**Attempt 1 problem.**
 
 ---
 
@@ -165,7 +163,7 @@ State whether each statement is **true or false**, and give a justification or c
 
 ---
 
-### D1. Transformations
+### D1. Standard Transformations
 
 1. What matrix represents: (a) Rotation by $90^\circ$ counterclockwise **followed by** projection onto the $x$-axis? (b) Projection onto the $x$-axis **followed by** projection onto the $y$-axis?
 
@@ -181,7 +179,7 @@ State whether each statement is **true or false**, and give a justification or c
 
 ## Section E: Determinants (20 Marks)
 
-**Attempt any *2 out of the following 3 problems*.**
+**Attempt any 2 out of the following 3 problems.**
 Each problem carries **10 marks**.
 
 ---
@@ -236,7 +234,7 @@ $$
 
 ## Section F: Orthogonality, Projections & Inequalities (20 Marks)
 
-**Attempt any *2 out of the following 3 problems*.**
+**Attempt any 2 out of the following 3 problems.**
 Each problem carries **10 marks**.
 
 ---
