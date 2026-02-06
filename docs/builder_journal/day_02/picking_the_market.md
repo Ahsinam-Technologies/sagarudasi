@@ -88,6 +88,8 @@ But when choosing between a perfect idea in a small market, and a rough idea in 
 
 A startup is already hard. Don’t make it harder by choosing a market that can’t reward success. The best founders don’t just build good products. They place themselves where good outcomes are statistically likely. And that starts with picking the right market.
 
+<!-- 
+
 !!! note "The Markets They Ended Up Picking!"
 
     Each founder had crazy and innovative ideas to begin with. 
@@ -111,8 +113,8 @@ A startup is already hard. Don’t make it harder by choosing a market that can�
     | Team 3 | **Diego Avalos** & **Sandra Mollisaca** | Education |
 
 
-    I wish we had more diversity in the markets that we'd picked. But right now, these markets do give us a good hope of generating revenue within 4 months!
+    I wish we had more diversity in the markets that we'd picked. But right now, these markets do give us a good hope of generating revenue within 4 months! -->
 
-
+<!-- 
 [^1]: Derek Muller (Veritasium), [The Biggest Myth In Education](https://www.youtube.com/watch?v=rhgwIhB58PA), 9 July 2021.
-[^2]: Y Combinator, [Tarpit Ideas](https://www.youtube.com/watch?v=GU9iT7MW0rs), 19 July 2024.
+[^2]: Y Combinator, [Tarpit Ideas](https://www.youtube.com/watch?v=GU9iT7MW0rs), 19 July 2024. -->

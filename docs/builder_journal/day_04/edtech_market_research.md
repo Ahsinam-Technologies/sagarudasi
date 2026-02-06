@@ -1,9 +1,9 @@
-# Edtech: Market Research
+# 04. Edtech: Market Research
 
-Let's start with mapping the education industry landscape. Blume's 2020[^1], 2022[^2], and 2024[^3] edtech reports were heavily referred in making the following analysis. 
+Let's start with mapping the education industry landscape. It has been my personal favorite because of my passion for teaching and a dream of making quality education accessible to people. Blume's 2020[^1], 2022[^2], and 2024[^3] edtech reports were heavily referred in making the following analysis. 
 
 ## 01. Education Industry Landscape
-
+ b
 We can consider the following axes: 
 
 1. **Age group served (Who?)**: Pre-school (< 5 years), K12 (5-18 years), Test Prep 1 (JEE, NEET, CET) (15-18 years), UG and PG (17-22 years), Test Prep 2 (CAT, UPSC, PCS, Bank, Job Interviews) (22-25 years), Upskilling (25-35 years) **(6 possibilities)**. 
@@ -490,7 +490,154 @@ We are not doing this business.
 
 **Initial Hypothesis:**
 
+### Idea 5: Unbundling Services in Schools & High Schools or D2C
 
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | ==Faculty Improvement==        | NP      | ~~LMS, ERP, SIS, Timetabler, Assessment Systems, Teacher tools, Compliance, Fees Management, Non-academic Services~~           | NP         |
+| **B2B2C**                      | ==Learning animations, Digital interactive platforms, AI tutors, Clubs & Labs inside schools, Delivery and content partnerships.==        | NP      | NP           | NP         |
+| **B2C**                        | ==Own school, Tuitions: offline/online, Practice platforms, Olympiad Prep, Hobby classes, Learning Kits and Books==        | NP      | NP           | NP         |
+| **Marketplace**                | Tutor marketplaces, Teacher communities, Doubt solving platforms, Content Hubs        | NP      | NP           | Find the best school for my child.         |
+
+**Initial Hypothesis:**
+
+
+### Idea 6: K12 Marketplaces
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | Faculty Improvement        | NP      | ~~LMS, ERP, SIS, Timetabler, Assessment Systems, Teacher tools, Compliance, Fees Management, Non-academic Services~~           | NP         |
+| **B2B2C**                      | Learning animations, Digital interactive platforms, AI tutors, Clubs & Labs inside schools, Delivery and content partnerships.        | NP      | NP           | NP         |
+| **B2C**                        | Own school, Tuitions: offline/online, Practice platforms, Olympiad Prep, Hobby classes, Learning Kits and Books        | NP      | NP           | NP         |
+| **Marketplace**                | ==Tutor marketplaces, Teacher communities, Doubt solving platforms, Content Hubs==        | NP      | NP           | ==Find the best school for my child.==         |
+
+**Initial Hypothesis:**
+
+
+## 04. Test Prep 1
+
+### Idea 7: Coaching Institutes
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | NP        | NP      | NP           | NP         |
+| **B2B2C**                      | ==Coaching Partnerships, Digital Solutions via Institutes==        | NP      | NP           | NP         |
+| **B2C**                        | ==Exam Coaching: online vs. offline==        | NP      | NP           | NP         |
+| **Marketplace**                | Tutor marketplace, Teacher communities, Doubt platforms, Content Hubs        | NP      | NP           | NP         |
+
+### Idea 8: Coaching Marketplace
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | NP        | NP      | NP           | NP         |
+| **B2B2C**                      | ~~Coaching Partnerships, Digital Solutions via Institutes~~        | NP      | NP           | NP         |
+| **B2C**                        | ~~Exam Coaching: online vs. offline~~        | NP      | NP           | NP         |
+| **Marketplace**                | ==Tutor marketplace, Teacher communities, Doubt platforms, Content Hubs==        | NP      | NP           | NP         |
+
+## 05. UG & PG
+
+### Idea 9: Operational SaaS & Services for Colleges
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | Faculty Improvement        | NP      | ==LMS, SIS, ERP, Evaluation Engines, Research Tools, Timetabling, Analytics, Placement Trackers and Enablers==           | NP         |
+| **B2B2C**                      | Digital Platforms, Coding Tools, Labs & CoEs, Research Areas, Industry Collabs, Entrepreneurship Cells, Hackathons        | Career Platforms, Employer Certifications, Industry Transition Programs      | Productivity Tools, Exam Prep Tools           | N         |
+| **B2C**                        | Own College, Post college coaching: online vs. offline.        | Interview Prep, Portfolio building, career coaching, industry bootcamps, credentialing, skill certificates      | NP           | NP         |
+| **Marketplace**                | Tutor marketplace, Teacher communities, Doubt platforms, Content Hubs       | NP      | NP           | Find me the best college (ranking + comparisons), my career options, what to study now, etc.         |
+
+
+### Idea 10: Skill Enhancement Offerings in Colleges
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | ==Faculty Improvement==        | NP      | ~~LMS, SIS, ERP, Evaluation Engines, Research Tools, Timetabling, Analytics, Placement Trackers and Enablers~~           | NP         |
+| **B2B2C**                      | ==Digital Platforms, Coding Tools, Labs & CoEs, Research Areas, Industry Collabs, Entrepreneurship Cells, Hackathons==        | ==Career Platforms, Employer Certifications, Industry Transition Programs==      | Productivity Tools, Exam Prep Tools           | N         |
+| **B2C**                        | Own College, Post college coaching: online vs. offline.        | Interview Prep, Portfolio building, career coaching, industry bootcamps, credentialing, skill certificates      | NP           | NP         |
+| **Marketplace**                | Tutor marketplace, Teacher communities, Doubt platforms, Content Hubs       | NP      | NP           | Find me the best college (ranking + comparisons), my career options, what to study now, etc.         |
+
+
+### Idea 11: Skill Enhancement Offering - D2C
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | Faculty Improvement        | NP      | ~~LMS, SIS, ERP, Evaluation Engines, Research Tools, Timetabling, Analytics, Placement Trackers and Enablers~~           | NP         |
+| **B2B2C**                      | Digital Platforms, Coding Tools, Labs & CoEs, Research Areas, Industry Collabs, Entrepreneurship Cells, Hackathons        | Career Platforms, Employer Certifications, Industry Transition Programs      | ==Productivity Tools, Exam Prep Tools==           | N         |
+| **B2C**                        | Own College, Post college coaching: online vs. offline.        | ==Interview Prep, Portfolio building, career coaching, industry bootcamps, credentialing, skill certificates==      | NP           | NP         |
+| **Marketplace**                | Tutor marketplace, Teacher communities, Doubt platforms, Content Hubs       | NP      | NP           | Find me the best college (ranking + comparisons), my career options, what to study now, etc.         |
+
+
+
+### Idea 12: Launching Our Own College
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | Faculty Improvement        | NP      | ~~LMS, SIS, ERP, Evaluation Engines, Research Tools, Timetabling, Analytics, Placement Trackers and Enablers~~           | NP         |
+| **B2B2C**                      | Digital Platforms, Coding Tools, Labs & CoEs, Research Areas, Industry Collabs, Entrepreneurship Cells, Hackathons        | Career Platforms, Employer Certifications, Industry Transition Programs      | Productivity Tools, Exam Prep Tools           | N         |
+| **B2C**                        | ==Own College, Post college coaching: online vs. offline.==        | Interview Prep, Portfolio building, career coaching, industry bootcamps, credentialing, skill certificates      | NP           | NP         |
+| **Marketplace**                | Tutor marketplace, Teacher communities, Doubt platforms, Content Hubs       | NP      | NP           | Find me the best college (ranking + comparisons), my career options, what to study now, etc.         |
+
+
+### Idea 13: UG & PG Marketplaces
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | Faculty Improvement        | NP      | ~~LMS, SIS, ERP, Evaluation Engines, Research Tools, Timetabling, Analytics, Placement Trackers and Enablers~~           | NP         |
+| **B2B2C**                      | Digital Platforms, Coding Tools, Labs & CoEs, Research Areas, Industry Collabs, Entrepreneurship Cells, Hackathons        | Career Platforms, Employer Certifications, Industry Transition Programs      | Productivity Tools, Exam Prep Tools           | N         |
+| **B2C**                        | ~~Own College, Post college coaching: online vs. offline.~~        | Interview Prep, Portfolio building, career coaching, industry bootcamps, credentialing, skill certificates      | NP           | NP         |
+| **Marketplace**                | ==Tutor marketplace, Teacher communities, Doubt platforms, Content Hubs==       | NP      | NP           | ==Find me the best college (ranking + comparisons), my career options, what to study now, etc.==         |
+
+
+## 06. Test Prep 2
+
+### Idea 14: Coaching Institutes
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | NP        | NP      | NP           | NP         |
+| **B2B2C**                      | ==Coaching Partnerships, Digital Solutions via Institutes==        | NP      | NP           | NP         |
+| **B2C**                        | ==Exam Coaching: online vs. offline==        | NP      | NP           | NP         |
+| **Marketplace**                | Tutor marketplace, Teacher communities, Doubt platforms, Content Hubs        | NP      | NP           | NP         |
+
+
+### Idea 15: Coaching Marketplaces
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | NP        | NP      | NP           | NP         |
+| **B2B2C**                      | ~~Coaching Partnerships, Digital Solutions via Institutes~~        | NP      | NP           | NP         |
+| **B2C**                        | ~~Exam Coaching: online vs. offline~~        | NP      | NP           | NP         |
+| **Marketplace**                | ==Tutor marketplace, Teacher communities, Doubt platforms, Content Hubs==        | NP      | NP           | NP         |
+
+
+## 07. Upskilling 
+
+### Idea 16: Upskilling Platforms for Corporate
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | NP        | NP      | ==Workforce Capability Tracking & Enablement Platform (role matching, skill matching, productivity tracking, HRTech, etc.)==           | NP         |
+| **B2B2C**                      | ==Structured L&D Programs for various roles==        | ==Internal Mobility & Leadership Pipeline Programs==      | ==Role Transitioning Tools==           | NP         |
+| **B2C**                        | Upskilling Platforms        | Credential & Signaling Platforms      | Productivity Tools           | NP         |
+| **Marketplace**                | Instructor/Cohort Marketplaces        | NP      | NP           | NP         |
+
+
+### Idea 17: Upskilling Platforms - D2C
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | NP        | NP      | ~~Workforce Capability Tracking & Enablement Platform (role matching, skill matching, productivity tracking, HRTech, etc.)~~           | NP         |
+| **B2B2C**                      | ~~Structured L&D Programs for various roles~~        | ~~Internal Mobility & Leadership Pipeline Programs~~      | ~~Role Transitioning Tools~~           | NP         |
+| **B2C**                        | ==Upskilling Platforms==        | ==Credential & Signaling Platforms==      | ==Productivity Tools==           | NP         |
+| **Marketplace**                | Instructor/Cohort Marketplaces        | NP      | NP           | NP         |
+
+### Idea 18: Upskilling Marketplaces
+
+| **Distribution ↓ / Outcome →** | Learning | Career | Operational | Discovery |
+| ------------------------------ | :------: | :----: | :---------: | :-------: |
+| **B2B**                        | NP        | NP      | ~~Workforce Capability Tracking & Enablement Platform (role matching, skill matching, productivity tracking, HRTech, etc.)~~           | NP         |
+| **B2B2C**                      | ~~Structured L&D Programs for various roles~~        | ~~Internal Mobility & Leadership Pipeline Programs~~      | ~~Role Transitioning Tools~~           | NP         |
+| **B2C**                        | Upskilling Platforms        | Credential & Signaling Platforms     | Productivity Tools           | NP         |
+| **Marketplace**                | ==Instructor/Cohort Marketplaces==        | NP      | NP           | NP         |
 
 ---
 

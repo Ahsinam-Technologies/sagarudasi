@@ -102,24 +102,22 @@ nav = [
   ]},
 
   { "Builder's Journal" = [
-    {"Day 1: January 08, 2026" = ["builder_journal/day_01/index.md"]},
-
-    {"Day 2: January 09, 2026" = ["builder_journal/day_02/index.md"]},
     
-    {"Day 3: January 10, 2026" = [
-      "builder_journal/day_03/index.md",
-      {"Indian Macros" = "builder_journal/day_03/indian_macro.md"},
-      {"Edtech: Market Research" = "builder_journal/day_03/edtech.md"},
-      {"HRTech: Market Research" = "builder_journal/day_03/hrtech.md"}
-    ]},
+    {"Day 1: January 08, 2026" = "builder_journal/day_01/startup_fundamentals.md"},
 
-    {"Day 4: January 11, 2026" = "builder_journal/day_04/what_to_build.md"},
+    {"Day 2: January 09, 2026" = "builder_journal/day_02/picking_the_market.md"},
+    
+    {"Day 3: January 10, 2026" = "builder_journal/day_03/market_research.md"},
 
-    {"Day 5: January 12, 2026" = "builder_journal/day_05/problem_statement.md"},
+    {"Day 4: January 10, 2026" = "builder_journal/day_04/edtech_market_research.md" },
 
-    {"Day 6: January 13, 2026" = "builder_journal/day_06/productization.md"},
+    {"Day 5: January 30, 2026" = "builder_journal/day_05/two_party_systems.md"},
 
-    {"Day 7: January 14, 2026" = "builder_journal/day_07/setting_up_the_build_environment.md"},
+    {"Day 6: February 06, 2026" = "builder_journal/day_06/what_to_build.md"},
+
+    {"Day 7: February 07, 2026" = "builder_journal/day_07/problem_statement.md"},
+
+    {"Day 8: February 08, 2026" = "builder_journal/day_08/floats.md"},
 
   ]}
 ]

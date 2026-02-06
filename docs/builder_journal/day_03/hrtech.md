@@ -1,1 +1,0 @@
-# HRTech: Market Research

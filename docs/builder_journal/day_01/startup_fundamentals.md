@@ -224,6 +224,8 @@ Understanding your users is part of half the principles in this list. That's the
 
 You now know most of the things what one should know before starting up. So now, **Let's Startup!** 🙂
 
+<!--
+
 !!! note "Teams We Have! 🔥"
 
     In the first cohort, we have **six** aspiring founders (**three** aspiring startups!) in the technology space! 
@@ -236,7 +238,7 @@ You now know most of the things what one should know before starting up. So now,
 
     > Except Team 1, everyone wanted to work alone! Nobody wanted to have a co-founder! It took a whole lot of convincing to set them up together 😂. I am very interested in how the co-founder dynamics will play out. 
 
-    
+     -->
 
 
 [^1]: Paul Graham, [How People Get Rich Now](https://paulgraham.com/richnow.html), April 2021.
