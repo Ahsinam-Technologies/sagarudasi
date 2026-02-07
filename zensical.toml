@@ -113,11 +113,14 @@ nav = [
 
     {"Day 5: January 30, 2026" = "builder_journal/day_05/two_party_systems.md"},
 
-    {"Day 6: February 06, 2026" = "builder_journal/day_06/what_to_build.md"},
+    {"Day 6: February 06, 2026" = "builder_journal/day_06/checklist_what_to_build.md"},
 
-    {"Day 7: February 07, 2026" = "builder_journal/day_07/problem_statement.md"},
+    {"Day 7: February 07, 2026" = "builder_journal/day_07/what_to_build.md"},
 
-    {"Day 8: February 08, 2026" = "builder_journal/day_08/floats.md"},
+    {"Day 8: February 08, 2026" = "builder_journal/day_08/problem_statement.md"},
+
+    {"Day 9: February 09, 2026" = "builder_journal/day_09/floats.md"},
+
 
   ]}
 ]
